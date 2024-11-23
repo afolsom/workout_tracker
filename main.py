@@ -5,7 +5,7 @@ import time
 
 ##### PC Path
 db_path = "C:/Users/awfma/DataspellProjects/workout_tracker/workout_tracker_db.db"
-
+#
 ##### Android Path
 #db_path = "/storage/emulated/0/Documents/workout_tracker/workout_tracker_db.db"
 
