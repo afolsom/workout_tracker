@@ -3,9 +3,12 @@ import sqlite3
 import os
 import time
 
+##### JupyterHub Path
+db_path = "workout_tracker_db.db"
+
 ##### PC Path
-db_path = "C:/Users/awfma/DataspellProjects/workout_tracker/workout_tracker_db.db"
-#
+#db_path = "C:/Users/awfma/DataspellProjects/workout_tracker/workout_tracker_db.db"
+
 ##### Android Path
 #db_path = "/storage/emulated/0/Documents/workout_tracker/workout_tracker_db.db"
 
