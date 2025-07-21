@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed440c19-5d8d-408f-9618-999b933e6420" name="Changes" comment="initial commit" />
+    <list default="true" id="ed440c19-5d8d-408f-9618-999b933e6420" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +98,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-a3cf41c8e241-05660e73b189-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-251.26927.75" />
+        <option value="bundled-python-sdk-2e738b810fe0-05660e73b189-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-251.26927.91" />
       </set>
     </attachedChunks>
   </component>
